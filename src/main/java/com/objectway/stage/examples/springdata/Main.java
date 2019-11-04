@@ -1,11 +1,6 @@
 package com.objectway.stage.examples.springdata;
 
 import com.objectway.stage.examples.springdata.entity.Employee;
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-import org.hibernate.boot.MetadataSources;
-import org.hibernate.boot.registry.StandardServiceRegistry;
-import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
